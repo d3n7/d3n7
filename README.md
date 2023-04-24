@@ -1,4 +1,7 @@
-### Hi there 👋
+### Consider supporting me on Venmo if you like my work :) @Paymewithyoursoul
+I’m currently working on ...
+Various systems that use GPT-4, GPT-3.5, Riffusion and other AI tools
+
 
 <!--
 **d3n7/d3n7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
