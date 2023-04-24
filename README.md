@@ -1,5 +1,4 @@
-![Digital_rain_banner](https://user-images.githubusercontent.com/29033313/234003598-8d2145ca-1b1a-498d-aad5-3f54f4f5e33b.gif)
-
+![d3n7](https://user-images.githubusercontent.com/29033313/234081071-e67b52c0-9af8-4bd4-b6ff-05d558404e66.gif)
 
 I’m currently working on ...
 Various systems that use GPT-4, GPT-3.5, Riffusion and other AI tools
