@@ -1,4 +1,4 @@
-![d3n7](https://user-images.githubusercontent.com/29033313/234086809-92463b47-7c4c-4ada-a5dd-befc5711e710.gif)
+[![d3n7](https://user-images.githubusercontent.com/29033313/234086809-92463b47-7c4c-4ada-a5dd-befc5711e710.gif)](https://github.com/d3n7/d3n7/blob/main/README.md)
 
 
 I’m currently working on ...
