@@ -1,4 +1,3 @@
-### Consider supporting me on Venmo if you like my work :) @Paymewithyoursoul
 I’m currently working on ...
 Various systems that use GPT-4, GPT-3.5, Riffusion and other AI tools
 
