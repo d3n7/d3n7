@@ -1,3 +1,6 @@
+![Digital_rain_banner](https://user-images.githubusercontent.com/29033313/234003598-8d2145ca-1b1a-498d-aad5-3f54f4f5e33b.gif)
+
+
 I’m currently working on ...
 Various systems that use GPT-4, GPT-3.5, Riffusion and other AI tools
 
