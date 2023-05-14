@@ -6,8 +6,6 @@ Various systems that use GPT-4, GPT-3.5, Riffusion and other AI tools
 
 I’m looking to collaborate on ... anything to do with AI and music
 
-[Langchain Contributor](https://github.com/hwchase17/langchain/pull/4111) (even though github won't credit me)
-
 <!--
 **d3n7/d3n7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
