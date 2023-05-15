@@ -8,7 +8,6 @@ I’m looking to collaborate on ... anything to do with AI and music
 
 - Music Technology student
 - Creator of GPT Unlimited Tools
-- Langchain Contributor ([here](https://github.com/hwchase17/langchain/pull/4111) and [here](https://github.com/hwchase17/langchain/pull/4723))
 
 <!--
 **d3n7/d3n7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
